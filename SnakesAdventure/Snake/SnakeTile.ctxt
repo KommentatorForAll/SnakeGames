@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SnakeTile
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Tile.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=posx\ posy
+comment1.target=SnakeTile(int,\ int)
+comment2.params=posx\ posy
+comment2.target=void\ move(int,\ int)
+numComments=3

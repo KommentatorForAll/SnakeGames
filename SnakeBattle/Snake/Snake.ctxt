@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Snake
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Snake.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=posx\ posy\ xsize\ ysize\ color
+comment1.target=Snake(int,\ int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ eat()
+comment3.params=posx\ posy
+comment3.target=boolean\ isTile(int,\ int)
+comment4.params=
+comment4.target=boolean\ move()
+comment5.params=frame
+comment5.target=void\ draw(Frame_work)
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Engine
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Engine.\r\n\r\n\ @author\ (Ihr\ Name)\r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=xsize\ ysize
+comment1.target=Engine(int,\ int)
+comment2.params=e
+comment2.target=void\ key(java.awt.event.KeyEvent)
+comment3.params=frame
+comment3.target=int\ run(Frame_work)
+comment4.params=posx\ posy
+comment4.target=boolean\ isTile(int,\ int)
+numComments=5

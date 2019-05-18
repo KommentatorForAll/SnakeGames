@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Game.\r\n\r\n\ @author\ (Ihr\ Name)\r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=difficulty\ xsize\ ysize
+comment2.target=void\ main(int,\ int,\ int)
+comment3.params=engine\ frame
+comment3.target=void\ start(Engine,\ Frame_work)
+comment4.params=difficulty\ engine
+comment4.target=void\ setDifficulty(int,\ Engine)
+numComments=5

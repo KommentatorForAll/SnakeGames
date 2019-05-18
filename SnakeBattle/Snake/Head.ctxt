@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Head
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Head.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=posx\ posy
+comment1.target=Head(int,\ int)
+comment2.params=dir
+comment2.target=void\ move(byte)
+numComments=3

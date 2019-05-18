@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Field
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Field.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=Field()
+comment2.params=xsize\ ysize
+comment2.target=void\ newMap(int,\ int)
+comment3.params=
+comment3.target=java.util.ArrayList\ toTileMap()
+comment4.params=posx\ posy
+comment4.target=char\ getTile(int,\ int)
+comment5.params=
+comment5.target=int\ appleCount()
+comment6.params=frame
+comment6.target=void\ createApple(Frame_work)
+comment7.params=posx\ posy\ frame
+comment7.target=void\ collectApple(int,\ int,\ Frame_work)
+comment8.params=
+comment8.target=int[]\ getSnakePos()
+numComments=9

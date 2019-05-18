@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Engine
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Engine.\r\n\r\n\ @author\ (Ihr\ Name)\r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=map
+comment1.target=Engine(Field)
+comment2.params=e
+comment2.target=void\ key(java.awt.event.KeyEvent)
+comment3.params=map\ frame
+comment3.target=int\ run(Field,\ Frame_work)
+numComments=4
